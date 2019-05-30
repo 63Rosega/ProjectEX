@@ -1,6 +1,6 @@
 {
 	"ID": 1,
-	"Name": "Harold"
-	"AnimalType": "Dog"
+	"Name": "Harold",
+	"AnimalType": "Dog",
 	"Breed": "Great Dane"
 }
